@@ -30,11 +30,32 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
+
+### Stakeholder Engagement
+- [ ] Identify all key stakeholders and document their roles/interests
+- [ ] Schedule stakeholder kickoff meeting or alignment session
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Stakeholder communication plan established (frequency, channels, format)
+- [ ] Escalation paths documented for each stakeholder group
+
+### Cross-Functional Review
+- [ ] Business Analyst validates requirements are complete and testable
+- [ ] Technical Lead reviews technical feasibility and risks
+- [ ] QA Specialist provides input on testability and quality gates
+- [ ] Scrum Master confirms team capacity and process fit
+- [ ] Project Manager validates timeline and resource availability
+
+### Accountability & Decision Gates
 - [ ] Decision: Approve to move into planning?
+- [ ] RACI matrix created for key decisions and deliverables
+- [ ] Assign owners for each major deliverable in the one-pager
+- [ ] Document approval authority for scope, budget, and timeline changes
+
+### Project Setup
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Configure access controls and permissions for all team members
 
 ## Decision Gate
 Move to planning when:
